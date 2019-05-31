@@ -1,0 +1,6 @@
+## IGNORE .ipython backup files
+.ipynb_checkpoints/
+
+## IGNORE Lecture files
+*.pdf
+*.pptx
